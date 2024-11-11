@@ -1,0 +1,6 @@
+framework module RLIMFeedSDK {
+  umbrella header "RLIMFeedSDK.h"
+  export *
+
+  module * { export * }
+}
